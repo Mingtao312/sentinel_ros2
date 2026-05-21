@@ -3,7 +3,6 @@ clone and build:
 
 ```bash
 git clone https://github.com/Mingtao312/sentinel_ros2.git
-cd sentinel_ros2
 colcon build --symlink-install 
 ```
 
