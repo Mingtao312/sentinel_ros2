@@ -1,1 +1,0 @@
-/home/mingtao/sentinel_ros2_ws/sentinel_ros/build/sentinel_ros/ament_cmake_core/sentinel_rosConfig-version.cmake

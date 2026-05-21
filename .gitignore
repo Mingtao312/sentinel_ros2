@@ -1,0 +1,32 @@
+# Ignore Zone.Identifier alternate data streams on Windows
+*Zone.Identifier
+
+# Common build artifacts
+build/
+
+# IDE specific files
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.directory
+*.nfs
+*~
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Other common ignores
+.gitignore_global
+./dataset/dataset_sim_people/*
+dataset/*
