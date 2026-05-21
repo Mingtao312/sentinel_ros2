@@ -1,0 +1,17 @@
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/lib/sentinel_ros/sentinel_node
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros//launch/sentinel_launch.py
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/ament_index/resource_index/package_run_dependencies/sentinel_ros
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/ament_index/resource_index/parent_prefix_path/sentinel_ros
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/ament_prefix_path.sh
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/ament_prefix_path.dsv
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/path.sh
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/path.dsv
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.bash
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.sh
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.zsh
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.dsv
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/package.dsv
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/ament_index/resource_index/packages/sentinel_ros
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/cmake/sentinel_rosConfig.cmake
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/cmake/sentinel_rosConfig-version.cmake
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/package.xml

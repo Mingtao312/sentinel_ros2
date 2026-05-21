@@ -1,0 +1,1 @@
+/home/mingtao/sentinel_ros2_ws/sentinel_ros/launch/sentinel_launch.py

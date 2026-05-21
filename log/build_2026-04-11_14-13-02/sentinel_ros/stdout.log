@@ -1,0 +1,57 @@
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/foxy/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+-- Found cv_bridge: 3.0.7 (/opt/ros/foxy/share/cv_bridge/cmake)
+-- Found CUDA: /usr/local/cuda (found suitable exact version "11.8") 
+-- Found image_transport: 2.4.0 (/opt/ros/foxy/share/image_transport/cmake)
+-- Found OpenCV: /usr/local (found version "4.6.0") 
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Checking for module 'libusb-1.0'
+--   Found libusb-1.0, version 1.0.23
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mingtao/sentinel_ros2_ws/sentinel_ros/build/sentinel_ros
+[ 20%] [32mBuilding CXX object CMakeFiles/sentinel_node.dir/src/sentinel_node.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/sentinel_node.dir/src/DecodePacket.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/sentinel_node.dir/src/Device.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/sentinel_node.dir/src/FrameBuffer.cpp.o[0m
+[100%] [32m[1mLinking CXX executable sentinel_node[0m
+[100%] Built target sentinel_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/lib/sentinel_ros/sentinel_node
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros//launch/sentinel_launch.py
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/ament_index/resource_index/package_run_dependencies/sentinel_ros
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/ament_index/resource_index/parent_prefix_path/sentinel_ros
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/ament_prefix_path.sh
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/path.sh
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/environment/path.dsv
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.bash
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.sh
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.zsh
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/local_setup.dsv
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/package.dsv
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/ament_index/resource_index/packages/sentinel_ros
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/cmake/sentinel_rosConfig.cmake
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/cmake/sentinel_rosConfig-version.cmake
+-- Symlinking: /home/mingtao/sentinel_ros2_ws/sentinel_ros/install/sentinel_ros/share/sentinel_ros/package.xml

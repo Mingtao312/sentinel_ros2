@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>sentinel_ros</name>
+  <version>0.1.0</version>
+  <description>
+    Sentinel ROS2 node for RGB, Diff (ROD), and IMU data streaming via libusb and OpenCV.
+  </description>
+  <maintainer email="mingtao@example.com">Mingtao</maintainer>
+  <license>MIT</license>
+
+  <!-- 构建工具依赖 -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- 编译依赖 -->
+  <build_depend>rclcpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>image_transport</build_depend>
+  <build_depend>OpenCV</build_depend>
+  <build_depend>libusb-1.0</build_depend>
+
+  <!-- 运行时依赖 -->
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>image_transport</exec_depend>
+  <exec_depend>OpenCV</exec_depend>
+  <exec_depend>libusb-1.0</exec_depend>
+
+  <!-- 测试依赖（可选） -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
